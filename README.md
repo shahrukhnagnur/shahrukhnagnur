@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shahrukhnagnur
 - 👀 I’m interested in website development and mern stack development
 - 🌱 I’m currently learning mern stack .
-- 💞️ I’m looking to collaborate on html css js and react js
+- 💞️ I’m looking to collaborate on html css js Bootstrap Tailwind css and react js
 - 📫 How to reach me email - shahrukhnagnur2535@gmail.com
 
 <!---
